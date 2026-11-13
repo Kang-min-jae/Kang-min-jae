@@ -6,7 +6,7 @@
 
 ---
 
-Hi! I'm Minjae, an AI major who builds and runs web services. I made a movie review site on my own and have been running it since October, which taught me to measure first and fix second. I care about clear structure, knowing why a tool was chosen, and writing down what I learn. 🎬
+Hi! I'm an AI student building full-stack web services — from database queries to 3D interfaces in Next.js and three.js. I care about clear structure, knowing why each tool is chosen, and turning what I learn into notes I can reuse
 
 ---
 
